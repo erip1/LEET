@@ -11,7 +11,7 @@ mkdir $var;
 cd $var;
 touch "readme.txt";
 touch "Solution.java";
-
+touch "what_i_need_to_do.txt";
 exit;
 
 
