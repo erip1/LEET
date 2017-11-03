@@ -1,0 +1,11 @@
+Maybe 
+
+1. Sort the array in increasing order 
+    (e.g. if I am given [1, 9, 6, 7], then the sorted one will be [1, 6, 7, 9])
+
+2. Pair each component and the min from each pair 
+    (e.g. [1, 6] and [7, 9])
+3. Sum all min values
+    (1 + 7 = 8)
+
+
