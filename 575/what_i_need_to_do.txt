@@ -1,0 +1,8 @@
+Maybe 
+
+1. (If not sorted, sort the array.)
+2. 1st get the size of the array. 
+   Because the size will be even and the people who get the candies are only two (1 brother and 1 sister), get the number of candies that need to be gathered. (E.g. if the number of candies given is 8, then set n = 4, where n is the number of candies that sister will get.)
+2. From the array, group the items that have the same value together.
+    (Hashmap will be used)
+3. Pick each value from hashmap.

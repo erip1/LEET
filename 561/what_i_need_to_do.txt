@@ -8,4 +8,3 @@ Maybe
 3. Sum all min values
     (1 + 7 = 8)
 
-
