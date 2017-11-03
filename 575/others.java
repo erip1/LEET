@@ -1,4 +1,6 @@
-public class Solution {
+import java.util.HashSet;
+
+public class others {
     public int distributeCandies(int[] candies) {
         HashSet<Integer> set = new HashSet<>();
         for (int candy : candies) {
@@ -7,8 +9,3 @@ public class Solution {
         return Math.min(set.size(), candies.length / 2);
     }
 }
-
-
-​
-
-
