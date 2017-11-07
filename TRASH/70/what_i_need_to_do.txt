@@ -1,0 +1,22 @@
+This problem can be seen as fibonacci problem 
+ 
+1 1 
+1 1 1  
+1 2 
+
+###############################################
+This problem can be seen as stars and bar problem. 
+
+Think this way. 
+
+If you have 2 ways to climb stair, this is like the following:
+
+1|1
+11|
+
+Therefore, you need to do nchoosek(a , b)
+
+how to find a and b:
+
+a = number of stars + bars 
+b = 
