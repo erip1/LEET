@@ -1,0 +1,5 @@
+This problem works like the following 
+
+0 to 9 + (0 to 9)^10 + ....
+
+

@@ -1,0 +1,11 @@
+Think this way
+
+1. Subtract A (63) from all characters
+
+2. Check if the 1st word starts with capital or not
+
+    if it is capital -> Check whether the next word is capital or not 
+
+
+        
+    
