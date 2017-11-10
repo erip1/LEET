@@ -1,0 +1,12 @@
+Think this way.
+
+1. subtract all with A (63).
+
+2. Check if the first word is in capital or not 
+		
+//Read from the backward to easily determine the capital.
+
+//E.g.
+
+
+
